@@ -1,0 +1,6 @@
+Power count: 1
+Power count: 2
+Power count: 3
+Damage count: 1
+Power count: 4
+You encountered a monster!
